@@ -71,7 +71,7 @@ If you would like to contribute to this project, please follow these steps:
 
 ## Author
 
-This Notes Taking App was created by Nirmit Kotadiya.
+This Notes Taking App was created by **Nirmit Kotadiya.**
 
 
 
